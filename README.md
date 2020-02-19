@@ -6,7 +6,7 @@
     - Tools
         - [IO](tools/io/pizza) - input read and output write. Read godoc for more information.
     - Solutions 
-        - [ ] Ilya
+        - [x] Ilya
         - [ ] Kirill
         - [ ] Arsenii
 - ???
